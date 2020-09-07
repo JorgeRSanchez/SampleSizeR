@@ -1,3 +1,3 @@
 # SampleSizeR
 
-Sánchez-González J R 2020. *tamanomuestralR*: cálculo del Tamaño Muestral v2.0. 
+Sánchez-González J R 2020. *samplesizeR*: a tool for calculating sample size v0.0. 
